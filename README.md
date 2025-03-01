@@ -1,5 +1,18 @@
 # 💫 About Me:
-Code whisperer. Shadow walker in the digital realm.  I explore the boundaries of security to fortify them. Ethical Hacking is my craft.<br>
+
+
+---
+
+### 👾 Kanchuka | Cyber Security Enthusiast 🕶️  
+
+💻 Breaking barriers, not systems—unless they need testing.  
+🔐 Cybersecurity, ethical hacking, and the art of digital defense.  
+⚡ Code by day, deep thoughts by night.  
+
+> "In a world of vulnerabilities, be the exploit they never saw coming."  
+
+---
+<br>
 
 
 # 💻 Tech Stack:
