@@ -251,7 +251,6 @@ while(universe.exists()) {
 
 ---
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=MISSION%20CONTINUES...&fontSize=30&fontColor=00FF41&animation=fadeIn&fontAlignY=70&desc=The%20digital%20realm%20awaits&descSize=15&descAlignY=85" />
 
 ### 💀 **"The best defense is a good offense, ethically applied"** 💀
 
