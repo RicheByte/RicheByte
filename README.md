@@ -48,14 +48,14 @@ My mission: fortify the digital realm and empower the community through knowledg
 <td width="33%">
 
 **[HopeWatch](https://github.com/RicheByte/HopeWatch)**
-- Cyber threat monitoring for humanitarian causes
+- Monitorng those who are need help(Suicide and Crisis)!
 - Real-time alerts & reporting
 
 </td>
 <td width="33%">
 
 **[VIGILANTE-MALWARE](https://github.com/RicheByte/VIGILANTE-MALWARE)**
-- Malware analysis framework
+- Malware Eco System Reaserch
 - Defensive automation & threat intelligence
 
 </td>
