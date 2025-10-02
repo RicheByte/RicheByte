@@ -32,35 +32,7 @@ My mission: fortify the digital realm and empower the community through knowledg
 - RicheByte
 ```
 
----
 
-## 🏆 **Flagship Projects**
-
-<table>
-<tr>
-<td width="33%">
-  
-**[Global UFO Sightings Tracker](https://github.com/RicheByte/Global-UFO-Sightings-Tracker)**
-- Interactive map of global UFO sightings
-- Data analysis & visualization
-
-</td>
-<td width="33%">
-
-**[HopeWatch](https://github.com/RicheByte/HopeWatch)**
-- Monitorng those who are need help(Suicide and Crisis)!
-- Real-time alerts & reporting
-
-</td>
-<td width="33%">
-
-**[VIGILANTE-MALWARE](https://github.com/RicheByte/VIGILANTE-MALWARE)**
-- Malware Eco System Reaserch
-- Defensive automation & threat intelligence
-
-</td>
-</tr>
-</table>
 
 ---
 
