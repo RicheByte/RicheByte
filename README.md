@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Professional Hacker Banner](https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=2000&pause=300&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=CYBERSECURITY+ENGINEER;ETHICAL+HACKER+%7C+DIGITAL+DEFENDER;OPEN+SOURCE+ADVOCATE;CREATING+SECURE+SYSTEMS+FOR+A+CONNECTED+WORLD)
+
 
 [![System Status](https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FF41?style=for-the-badge&labelColor=000000&logo=matrix&logoColor=00FF41)](https://github.com/RicheByte)
 [![Threat Level](https://img.shields.io/badge/THREAT_LEVEL-BENEVOLENT-00FF41?style=for-the-badge&labelColor=FF0000&logo=shield&logoColor=white)](https://github.com/RicheByte)
