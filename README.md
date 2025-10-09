@@ -10,9 +10,9 @@
 @@  ╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝    ╚═╝      ╚═╝   ╚══════╝  @@
 @@                                                            @@
 ```
-<div align="center">
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5vN3E1MG1mMGJlMHZkMndnZ3k4d2o5MGEyb2lqbTFwMGsycG1xYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width="600"/>
-</div>
+
 </div>
 
 ```diff
@@ -71,7 +71,7 @@
 + [*] Anonymity: ✓
 + [*] Coffee level: ████████░░ 80%
 + 
-+ > GitHub: github.com/RicheByte
++ > GitHub: https://github.com/RicheByte
 + > Status: Online and hunting bugs
 + > Find me: You know where to look 😉
 + 
