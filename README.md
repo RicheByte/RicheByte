@@ -35,15 +35,6 @@
 </div>
 
 
-
-##  Current Mission
-
--  Hunting bugs before they hunt us
--  Building digital fortresses, then learning to breach them
--  Thinking like an attacker, defending like a guardian
--  Studying the dark arts of cybersecurity (ethically, of course)
-
-
 ##  What I'm Into
 
 - **Offensive Security:** Red teaming, penetration testing, exploit development
@@ -75,24 +66,14 @@
 ```
 
 ##  Hacking Mindset
-
-> _"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."_ — Gene Spafford
-
 **My addition:** _"...and even then, I have my doubts."_
 
-### Philosophy
-
--  **Curiosity** over convention
--  **Understanding** over blindly applying
--  **Building** over just breaking
--  **Sharing** knowledge over gatekeeping
--  **Ethical** practices always
 
 ##  Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/RicheByte) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/RicheByte) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1136912282220245082) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/richebyte)
 
 </div>
 
