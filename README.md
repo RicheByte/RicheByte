@@ -1,60 +1,39 @@
-# 👾 RicheByte
-
+#  RicheByte
+<div align="center">
 ```ascii
- ██████╗ ██╗ ██████╗██╗  ██╗███████╗██████╗ ██╗   ██╗████████╗███████╗
- ██╔══██╗██║██╔════╝██║  ██║██╔════╝██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔════╝
- ██████╔╝██║██║     ███████║█████╗  ██████╔╝ ╚████╔╝    ██║   █████╗  
- ██╔══██╗██║██║     ██╔══██║██╔══╝  ██╔══██╗  ╚██╔╝     ██║   ██╔══╝  
- ██║  ██║██║╚██████╗██║  ██║███████╗██████╔╝   ██║      ██║   ███████╗
- ╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝    ╚═╝      ╚═╝   ╚══════╝
+ ⣠⣀⣄⣄⣤⣠⣠⣀⣄⣠⣀⣄⣠⣀⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢼⡹⣞⡼⣲⢧⡳⣝⢮⡳⣝⢮⡳⣭⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢺⡵⣫⡜⣧⢏⡷⣹⢎⡷⣹⢎⡷⣹⢾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢣⣟⣱⢻⡜⣏⢾⡱⣏⢾⡱⣏⢾⡱⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⡹⣜⢧⡻⣼⡹⣎⢷⡹⣎⢷⡹⢮⡝⣯⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣹⢎⡷⣹⢶⣹⡮⠷⣽⠮⠷⣝⢧⡻⣽⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⣀⠀⠀⢰⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⡸⣏⡾⣱⠏⠀⣀⣰⠇⠀⠀⢹⡎⣷⣹⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⣿⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣽⣲⡽⠷⢴⡯⢯⡝⡷⣤⣤⠋⢻⣖⣻⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⣿⠀⠀⣽⣧⣴⡶⢦⣄⠀⠀⠀⣦⠀⠀⠀⠀⣦⠀⠀⣤⣴⠶⡶⣤⡀⠀⠀⢸⣧⡦⡴⠆⠀⣦⠀⠀⠀⠀⣤
+⣿⢿⠀⠀⢈⣟⢧⡻⢵⡳⢞⡇⢘⣮⢟⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⣿⠀⠀⣼⡇⠀⠀⠀⠙⣧⠀⢸⡧⠀⠀⠀⠀⣿⠀⠀⣿⠀⠀⠀⠈⣿⠀⠀⢼⡇⠀⠀⠀⠀⣿⠀⠀⠀⠀⣿
+⣿⣫⢷⡒⠻⣝⡮⣝⡧⠿⢿⡀⣸⢧⡿⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⣿⠄⠀⣸⡇⠀⠀⠀⠀⣿⠀⢸⣏⠀⠀⠀⠀⣿⠀⠀⣿⠀⠀⠀⠀⢾⠀⠀⢹⡇⠀⠀⠀⠀⣿⠀⠀⠀⠀⣿
+⣿⡱⣏⢷⣄⡈⠙⢻⡀⠀⠀⡿⣝⢮⣽⠀⠀⠀⠘⢿⣄⡀⠀⣀⣼⠟⠀⠀⣹⡇⠀⠀⣀⣴⠏⠀⠀⢿⣄⠀⠀⢀⣿⠀⠀⣿⡀⠀⠀⠀⣾⡄⠀⢸⣇⡀⠀⣀⠀⢻⣄⡀⠀⢀⣿
+⣿⡵⣫⠾⣜⢯⡳⣟⢷⡲⢾⡹⣎⢷⣻⠀⠀⠀⠀⠀⠉⠙⠛⠉⠁⠀⠀⠀⠈⠉⠛⠛⠉⠁⠀⠀⠀⠀⠉⠛⠋⠉⠉⠀⠀⠉⠁⠀⠀⠀⠉⠁⠀⠀⠉⠙⠋⠉⠀⠀⠉⠙⠋⠉⠉
+⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
+</div>
 
 <div align="center">
-
-### 💻 Breaking barriers, not systems—unless they need testing.
-
-**`Cybersecurity Enthusiast`** • **`Ethical Hacker`** • **`Digital Defense Artist`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00F707&center=true&vCenter=true&width=435&lines=In+a+world+of+vulnerabilities...;...be+the+exploit+they+never+saw+coming.;Code+by+day%2C+deep+thoughts+by+night.)](https://git.io/typing-svg)
 
 </div>
 
----
 
-## 🎯 Current Mission
 
-- 🔐 Hunting bugs before they hunt us
-- 🛡️ Building digital fortresses, then learning to breach them
-- 🧠 Thinking like an attacker, defending like a guardian
-- 📚 Studying the dark arts of cybersecurity (ethically, of course)
+##  Current Mission
 
-## ⚡ Arsenal
+-  Hunting bugs before they hunt us
+-  Building digital fortresses, then learning to breach them
+-  Thinking like an attacker, defending like a guardian
+-  Studying the dark arts of cybersecurity (ethically, of course)
 
-```python
-class RicheByte:
-    def __init__(self):
-        self.role = "Security Researcher"
-        self.language_spoken = ["Python", "Bash", "JavaScript", "C", "Assembly"]
-        self.tools = [
-            "Metasploit", "Burp Suite", "Wireshark", "Nmap", 
-            "John the Ripper", "Ghidra", "IDA Pro"
-        ]
-        self.interests = ["Penetration Testing", "Reverse Engineering", 
-                         "Web Security", "Network Security", "Cryptography"]
-        self.philosophy = "Break to protect, hack to defend"
-    
-    def daily_routine(self):
-        return [
-            "☕ Coffee++",
-            "🔍 Scan for vulnerabilities",
-            "💀 Exploit (responsibly)",
-            "📝 Document findings",
-            "🎓 Learn something new",
-            "🌙 Contemplate digital existence"
-        ]
-```
 
-## 🔥 What I'm Into
+##  What I'm Into
 
 - **Offensive Security:** Red teaming, penetration testing, exploit development
 - **Defensive Security:** Incident response, threat hunting, security hardening
@@ -62,7 +41,7 @@ class RicheByte:
 - **CTF Challenges:** Because sleep is overrated anyway
 - **Security Research:** Always digging deeper
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -74,7 +53,7 @@ class RicheByte:
 
 </div>
 
-## 🎓 Certifications & Learning Path
+##  Certifications & Learning Path
 
 ```bash
 [✓] Self-taught Security Researcher
@@ -84,7 +63,7 @@ class RicheByte:
 [~] SANS/GIAC Certifications (Future)
 ```
 
-## 💀 Hacking Mindset
+##  Hacking Mindset
 
 > _"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."_ — Gene Spafford
 
@@ -92,13 +71,13 @@ class RicheByte:
 
 ### Philosophy
 
-- 🎯 **Curiosity** over convention
-- 🔓 **Understanding** over blindly applying
-- 🛠️ **Building** over just breaking
-- 📖 **Sharing** knowledge over gatekeeping
-- ⚖️ **Ethical** practices always
+-  **Curiosity** over convention
+-  **Understanding** over blindly applying
+-  **Building** over just breaking
+-  **Sharing** knowledge over gatekeeping
+-  **Ethical** practices always
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -108,15 +87,15 @@ class RicheByte:
 
 ---
 
-## 🎮 Fun Facts
+##  Fun Facts
 
-- 🌃 I do my best thinking between midnight and 3 AM
-- 🐛 Finding bugs gives me an adrenaline rush
-- 🏴‍☠️ Capture The Flag addict
-- 📡 I analyze network traffic for fun
-- 🔬 Breaking things to understand them is my love language
+-  I do my best thinking between midnight and 3 AM
+-  Finding bugs gives me an adrenaline rush
+-  Capture The Flag addict
+-  I analyze network traffic for fun
+-  Breaking things to understand them is my love language
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <div align="center">
 
@@ -128,11 +107,9 @@ class RicheByte:
 
 <div align="center">
 
-### 💭 Thought of the Day
 
-_"In a digital world full of vulnerabilities, every exploit is a lesson, every patch is progress, and every secure system is a challenge accepted."_
 
-### ⚡ System Status
+###  System Status
 
 ```
 Root Access: [GRANTED]
