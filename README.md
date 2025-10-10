@@ -1,5 +1,5 @@
 #  RicheByte
-<div align="center">
+
 <div>
 
 ```  
@@ -27,7 +27,7 @@
   ```
 
 </div>
-</div>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00F707&center=true&vCenter=true&width=435&lines=In+a+world+of+vulnerabilities...;...be+the+exploit+they+never+saw+coming.;Code+by+day%2C+deep+thoughts+by+night.)](https://git.io/typing-svg)
