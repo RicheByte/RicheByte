@@ -37,11 +37,11 @@
 
 ##  What I'm Into
 
- **Offensive Security:** Red teaming, penetration testing, exploit development
- **Defensive Security:** Incident response, threat hunting, security hardening
- **Bug Bounty:** Finding vulnerabilities in the wild
- **CTF Challenges:** Because sleep is overrated anyway
- **Security Research:** Always digging deeper
+ **Offensive Security:** Red teaming, penetration testing, exploit development,
+  **Defensive Security:** Incident response, threat hunting, security hardening,
+  **Bug Bounty:** Finding vulnerabilities in the wild,
+  **CTF Challenges:** Because sleep is overrated anyway,
+  **Security Research:** Always digging deeper.
 
 ##  GitHub Stats
 
@@ -81,11 +81,11 @@
 
 ##  Fun Facts
 
-  I do my best thinking between midnight and 3 AM
-  Finding bugs gives me an adrenaline rush
-  Capture The Flag addict
-  I analyze network traffic for fun
-  Breaking things to understand them is my love language
+  I do my best thinking between midnight and 3 AM,
+   Finding bugs gives me an adrenaline rush,
+   Capture The Flag addict,
+   I analyze network traffic for fun,
+   Breaking things to understand them is my love language.
 
 ##  Activity Graph
 
