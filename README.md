@@ -2,29 +2,14 @@
 
 <div>
 
-```  
-                   -`                     IUseArchbtw@arch
-                  .o+`                    ----------------
-                 `ooo/                    OS: Arch linux x86_64
-                `+oooo:                   Model: ASUS TUF Gaming F15 FX506HC_FX506HC 1.0
-               `+oooooo:                  Kernel: 6.8.5-zen1-1-zen
-               -+oooooo+:                 Uptime: 7 hours, 49 mins
-             `/:-:++oooo+:                Packages 1244 (pacman), 13 (flatpak)
-            `/++++/+++++++:               Shell: bash 5.2.26
-           `/++++++++++++++:              Resolution: 1920x1080
-          `/+++ooooooooooooo/`            DE: LXQt 1.4.0
-         ./ooosssso++osssssso+`           WM: Openbox
-        .oossssso-````/ossssss+`          Theme: Breeze [GTK2/3]
-       -osssssso.      :ssssssso.         Icons: breeze [GTK2/3]
-      :osssssss/        osssso+++.        Terminal: qterminal
-     /ossssssss/        +ssssooo/-        Terminal Font: Source Code Pro 12
-   `/ossssso+/:-        -:/+osssso+-      CPU: 11th Gen Intel 15-11400H (12) @ 4.500GHz
-  `+sso+:-`                 `.-/+oso:     GPU: NVIDIA GeForce RTX 3050 Mobile
- `++:.                           `-/+/    Memory: 8546 / 15731MiB
- .`                                 ` 
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-  ```
+## 🎧 Project Soundtrack
+
+**Now Playing: Oh Lord by Foxy Shazam**
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A256065007&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/foxyshazam" title="foxyshazam" target="_blank" style="color: #cccccc; text-decoration: none;">foxyshazam</a> · <a href="https://soundcloud.com/foxyshazam/oh-lord" title="Oh Lord" target="_blank" style="color: #cccccc; text-decoration: none;">Oh Lord</a></div>
+
+
 
 </div>
 
