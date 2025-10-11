@@ -110,7 +110,7 @@ Motivation: [MAXIMUM]
 Coffee Level: [CRITICAL]
 ```
 
-![Visitor Count](https://profile-counter.glitch.me/RicheByte/count.svg)
+
 
 
 
