@@ -1,8 +1,7 @@
 #  RicheByte
 
 <div align = "center">
-
-
+> As Linus Torvalds (creator of Linux) famously said: "Talk is cheap. Show me the code."
 </div>
 
 
