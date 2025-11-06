@@ -21,10 +21,11 @@
 ##  GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicheByte&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicheByte&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9)
+ 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=RicheByte&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicheByte&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9" alt="Top Languages" />
+</div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RicheByte&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
 
