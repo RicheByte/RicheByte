@@ -6,7 +6,6 @@
 
 <div align="center">
 
-![I'm bringing the team back togther for one last job,You in?](1768.gif)
 
 </div>
 
