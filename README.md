@@ -1,9 +1,9 @@
 
 
 ```markdown
-<div align="center">
 
 
+```
                    _..._                                                                                   
                 .-'_..._''.                                                                                
         .--.  .' .'      '.\  .              __.....__     /|                               __.....__      
@@ -20,7 +20,7 @@
 
 > whoami ↳ security researcher. bug hunter. ctf addict. night owl.
 
-````
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Red+Teaming+%7C+Exploit+Dev+%7C+Bug+Bounty;Breaking+things+to+understand+them.;Sleep+is+a+patch+I+haven't+applied+yet.)
 
