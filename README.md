@@ -1,48 +1,5 @@
 
 
-```markdown
-<div align="center">
-
-```
-██████╗ ██╗ ██████╗██╗  ██╗███████╗██████╗ ██╗   ██╗████████╗███████╗
-██╔══██╗██║██╔════╝██║  ██║██╔════╝██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔════╝
-██████╔╝██║██║     ███████║█████╗  ██████╔╝ ╚████╔╝    ██║   █████╗  
-██╔══██╗██║██║     ██╔══██║██╔══╝  ██╔══██╗  ╚██╔╝     ██║   ██╔══╝  
-██║  ██║██║╚██████╗██║  ██║███████╗██████╔╝   ██║      ██║   ███████╗
-╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝    ╚═╝      ╚═╝   ╚══════╝
-```
-
-```
-> whoami
-  ↳ security researcher. bug hunter. ctf addict. night owl.
-```
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Red+Teaming+%7C+Exploit+Dev+%7C+Bug+Bounty;Breaking+things+to+understand+them.;Sleep+is+a+patch+I+haven't+applied+yet.)
-
-</div>
-
----
-
-```bash
-$ cat /etc/richebyte/status
-```
-
-```
-[✓] Root Access ............ GRANTED
-[✓] Firewall ............... BYPASSED  
-[~] OSCP ................... IN PROGRESS
-[∞] Coffee Level ........... CRITICAL
-```
-
----
-
-**`focus`** → red teaming · exploit dev · bug bounty · CTF · threat hunting
-
-**`mindset`** → *"...and even then, I have my doubts."*
-
-**`active`** → midnight → 3AM (peak performance window)
-
----
 
 <div align="center">
 
@@ -54,5 +11,5 @@ $ cat /etc/richebyte/status
 `"Breaking things is my love language."`
 
 </div>
-```
+
 
